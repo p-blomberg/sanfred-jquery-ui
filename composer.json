@@ -1,6 +1,12 @@
 {
 	"name": "p-blomberg/sanfred-jquery-ui",
 	"require": {
-		"components/jquery": "^1.11.2"
-	}
+		"p-blomberg/sanfred-jquery": "^1.11.2"
+	},
+	"repositories": [
+		{
+			"type": "vcs",
+			"url":  "https://github.com/p-blomberg/sanfred-jquery.git"
+		}
+	]
 }
