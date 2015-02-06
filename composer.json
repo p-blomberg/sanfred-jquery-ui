@@ -1,3 +1,6 @@
 {
-	"name": "p-blomberg/sanfred-jquery-ui"
+	"name": "p-blomberg/sanfred-jquery-ui",
+	"require": {
+		"components/jquery": "^1.11.2"
+	}
 }
